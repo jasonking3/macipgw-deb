@@ -1,0 +1,42 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Origin: jasonking3.github.io/macipgw-deb
+Label: jasonking3.github.io/macipgw-deb
+Codename: buster
+Date: Thu, 23 Apr 2020 00:43:51 UTC
+Architectures: amd64 armhf
+Components: contrib
+Description: macipgw repository
+MD5Sum:
+ 2c1cb001560923491ddb89a9b3b927d5 685 contrib/binary-amd64/Packages
+ e419c0052c2002ef4e11bcf5bc91d215 429 contrib/binary-amd64/Packages.gz
+ a80dc7f725f5e9374007fde8792a7e49 152 contrib/binary-amd64/Release
+ d41d8cd98f00b204e9800998ecf8427e 0 contrib/binary-armhf/Packages
+ 16db6212ae61a24b1a9921bdd7c58c1f 20 contrib/binary-armhf/Packages.gz
+ ea428b9ed202f11fb2222999aef244f5 152 contrib/binary-armhf/Release
+SHA1:
+ a31a93cc8b11d95277173898eb4c74a3a579dfb2 685 contrib/binary-amd64/Packages
+ 86815ace5fd40d00b0772dc009f64609ddf0d29d 429 contrib/binary-amd64/Packages.gz
+ ec510fb5733b3c617b8a3c5d8dcd83f074dbd3fe 152 contrib/binary-amd64/Release
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 contrib/binary-armhf/Packages
+ b9693a53bcffe40b2cc2c37045561f848baaa22a 20 contrib/binary-armhf/Packages.gz
+ 084f0cfa8a763d4589e24b759fb96ebb52790e57 152 contrib/binary-armhf/Release
+SHA256:
+ 4bd5185af1d03a67e9cd6c19fda043dd6aff34f8e1d13e6ee0ad9fc35bf923fe 685 contrib/binary-amd64/Packages
+ 45bf6a4a57148308467154a4e95e07423dfa6bd43f84a8228345f7e7264bd77e 429 contrib/binary-amd64/Packages.gz
+ a4f3426a0a82fb110c5797522ca80f42977cea4a9e6680f5310b06ab627af6ab 152 contrib/binary-amd64/Release
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 contrib/binary-armhf/Packages
+ abfbb86f9f5ddfbd9fc1a72c43ab384702ce8bae86b60f3324748485e235e61e 20 contrib/binary-armhf/Packages.gz
+ e5376d7e20df473de5b193b692c61ff510ae1d12f29237084e03e16c6f6132e4 152 contrib/binary-armhf/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQEzBAEBCAAdFiEEdTHw/PXTNgcY8Ib2vuqR7/jHY5oFAl6g5McACgkQvuqR7/jH
+Y5ootwf9GtzYu3w1FVQ2Zt+XRboHS7Dh26R3XSKLrk4b+IAUv7OM6VX0O0JlaH5C
+dbiNX60RTkNfPnCggJzjWzkOTBdLiSS9y5KJl06FIGuChvJFw9ha/67fm+D9cOyK
++BAhnip7oBOfgUGHaB8bXCFbgSDVVmF0Yd/JVLOZEpexYGQKHG+pUNEIScWr0o65
+YiLj4FHSBIRF4CKh8gck8qjRtIAR8/q228m18NVJruO8v4aL7/EcmONscMRqEXmb
+dI///TZYKFnnnPBFtlyOJZpgCddufxBVOwbjhyU52QXeI/qmz05NbZx8IruA8m8B
+5XC8oqFXov4cWVr/YEg80dr8EOyfKA==
+=Ma7j
+-----END PGP SIGNATURE-----

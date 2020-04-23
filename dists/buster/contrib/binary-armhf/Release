@@ -1,0 +1,5 @@
+Component: contrib
+Origin: jasonking3.github.io/macipgw-deb
+Label: jasonking3.github.io/macipgw-deb
+Architecture: armhf
+Description: macipgw repository

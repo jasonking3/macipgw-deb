@@ -1,0 +1,7 @@
+Origin: jasonking3.github.io/macipgw-deb
+Label: jasonking3.github.io/macipgw-deb
+Codename: buster
+Architectures: amd64 armhf
+Components: contrib
+Description: macipgw repository
+SignWith: 7531F0FCF5D3360718F086F6BEEA91EFF8C7639A

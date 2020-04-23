@@ -1,0 +1,18 @@
+Package: linux-image-4.15.18-macipgw
+Source: linux-4.15.18-macipgw
+Version: 4.15.18-macipgw-1
+Architecture: amd64
+Maintainer: Anonymous <root@ubuntu-bionic>
+Installed-Size: 20803
+Homepage: http://www.kernel.org/
+Priority: optional
+Section: kernel
+Filename: pool/contrib/l/linux-4.15.18-macipgw/linux-image-4.15.18-macipgw_4.15.18-macipgw-1_amd64.deb
+Size: 10573260
+SHA256: 2b572646a1cdea92fee00c160d654e41f773a4f427b9d3fec2545c8d0b42e6f7
+SHA1: ef620878cf2447cab6b57c4c58ada63f973aa472
+MD5sum: c67136dc6fd4b74b538e7c8d8b00608c
+Description: Linux kernel, version 4.15.18-macipgw
+ This package contains the Linux kernel, modules and corresponding other
+ files, version: 4.15.18-macipgw.
+
