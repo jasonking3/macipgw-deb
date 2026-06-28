@@ -4,4 +4,4 @@ Codename: buster
 Architectures: amd64 armhf
 Components: contrib
 Description: macipgw repository
-SignWith: 7531F0FCF5D3360718F086F6BEEA91EFF8C7639A
+SignWith: C9AD0BE826255D2F41F34ACBFF7E4CF2060EC022
